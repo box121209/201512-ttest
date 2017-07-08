@@ -1,4 +1,4 @@
-# A-demo-of-the-t-test
+# A demo of the t-test
 
 This is a demo - <a href="http://54.229.3.49:443/shiny/ttest/">implemented here</a> - of the two-sample (Welch) <i>t</i>-test. 
 
