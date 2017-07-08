@@ -25,5 +25,5 @@ d=s4(s2A/nA)2nA–1+(s2B/nB)2nB–1
 d=s4(s2A/nA)2nA–1+(s2B/nB)2nB–1
 
 So as the sample sizes increase, so does ddd, and the red curve f(x)f(x)f(x) becomes more concentrated at 0.
-At the bottom of the plot is the output of the R function t.test() for the given samples. It shows, in particular, the value of ttt and the ppp-value. The demo tries to make this output intuitive — how does the ppp-value respond as we vary the population mean and variance, or the sample sizes?
+At the bottom of the plot is the output of the R function <tt>t.test()</tt> for the given samples. It shows, in particular, the value of ttt and the ppp-value. The demo tries to make this output intuitive — how does the ppp-value respond as we vary the population mean and variance, or the sample sizes?
 
