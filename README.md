@@ -1,6 +1,6 @@
 # A-demo-of-the-t-test
 
-This is a demo - <a href="http://54.229.3.49:443/shiny/ttest/">implemented here</a>, of the two-sample (Welch) <i>t</i>-test. 
+This is a demo - <a href="http://54.229.3.49:443/shiny/ttest/">implemented here</a> - of the two-sample (Welch) <i>t</i>-test. 
 
 The idea is that there are two random variables (or populations) <i>A</i> and <i>B</i>, each normally distributed, and we want to test whether these populations have the same mean. So we take a sample from each population. (Shown in the yellow boxplots. The red bar in the boxplot is the sample mean.)
 
