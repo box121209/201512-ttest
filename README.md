@@ -1,6 +1,8 @@
 # A-demo-of-the-t-test
 
-The demo is implemented <a href="http://54.229.3.49:443/shiny/ttest/">here</a>. It shows how the two-sample (Welch) ttt-test works. The idea is that there are two random variables (or populations) AAA and BBB, each normally distributed, and we want to test whether these populations have the same mean. So we take a sample from each population. (Shown in the yellow boxplots. The red bar in the boxplot is the sample mean.)
+This is a demo - <a href="http://54.229.3.49:443/shiny/ttest/">implemented here</a>, of the two-sample (Welch) <i>t</i>-test. 
+
+The idea is that there are two random variables (or populations) <i>A</i> and <i>B</i>, each normally distributed, and we want to test whether these populations have the same mean. So we take a sample from each population. (Shown in the yellow boxplots. The red bar in the boxplot is the sample mean.)
 
 Suppose these samples have size nA,nBnA,nBnA,nB respectively, and that they have means X⎯⎯⎯⎯AX⎯⎯⎯⎯AX⎯⎯⎯⎯A, X⎯⎯⎯⎯BX⎯⎯⎯⎯BX⎯⎯⎯⎯B, and sample variances s2As2As2A, s2Bs2Bs2B. Let
 t=X⎯⎯⎯⎯A–X⎯⎯⎯⎯Bswheres=s2AnA+s2BnB‾‾‾‾‾‾‾‾‾√.
